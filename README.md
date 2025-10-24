@@ -42,6 +42,7 @@
 
 1. **Clone the repository:**
 ```bash
+
 git clone https://github.com/AJKakarot/mern-chat-app
 
   
@@ -59,7 +60,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd mern-chat-app
+  cd chat-box
 ```
 
 Install dependencies
