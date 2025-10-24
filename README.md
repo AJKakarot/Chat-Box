@@ -22,19 +22,19 @@
 ## 🚀 Features
 
 ### Authentication
-- Secure signup and login  
+### Secure Signup and Login
 ![Login](https://github.com/AJKakarot/Chat-Box/blob/main/screenshots/login.jpg)
-  
-![Signup](https://github.com/ajeet-eon/mern-chat-app/blob/master/screenshots/signup.jpg)  
+![Signup](https://github.com/AJKakarot/Chat-Box/blob/main/screenshots/signup.jpg)
 
 ### One-to-One Chat
-![Chat Screen](https://github.com/ajeet-eon/mern-chat-app/blob/master/screenshots/chat.jpg)  
+![Chat Screen](https://github.com/AJKakarot/Chat-Box/blob/main/screenshots/chat.jpg)
 
 ### Search Users
-![Search Users](https://github.com/ajeet-eon/mern-chat-app/blob/master/screenshots/search.jpg)    
+![Search Users](https://github.com/AJKakarot/Chat-Box/blob/main/screenshots/search.jpg)
 
 ### View User Profiles
-![User Profile](https://github.com/ajeet-eon/mern-chat-app/blob/master/screenshots/profile.jpg)  
+![User Profile](https://github.com/AJKakarot/Chat-Box/blob/main/screenshots/profile.jpg)
+ 
 
 ---
 
