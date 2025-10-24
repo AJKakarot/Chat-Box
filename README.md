@@ -23,7 +23,8 @@
 
 ### Authentication
 - Secure signup and login  
-![Login](https://github.com/ajeet-eon/mern-chat-app/blob/master/screenshots/login.jpg)  
+![Login](https://github.com/AJKakarot/Chat-Box/blob/main/screenshots/login.jpg)
+  
 ![Signup](https://github.com/ajeet-eon/mern-chat-app/blob/master/screenshots/signup.jpg)  
 
 ### One-to-One Chat
