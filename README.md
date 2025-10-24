@@ -21,19 +21,19 @@
 
 ## 🚀 Features
 
+### Authentication
 ### Secure Signup and Login
-<img src="https://github.com/AJKakarot/Chat-Box/blob/main/screenshots/login.jpg" width="300">
-<img src="https://github.com/AJKakarot/Chat-Box/blob/main/screenshots/signup.jpg" width="300">
+![Login](https://github.com/AJKakarot/Chat-Box/blob/main/screenshots/login.jpg)
+![Signup](https://github.com/AJKakarot/Chat-Box/blob/main/screenshots/signup.jpg)
 
 ### One-to-One Chat
-<img src="https://github.com/AJKakarot/Chat-Box/blob/main/screenshots/chat.jpg" width="400">
+![Chat Screen](https://github.com/AJKakarot/Chat-Box/blob/main/screenshots/chat.jpg)
 
 ### Search Users
-<img src="https://github.com/AJKakarot/Chat-Box/blob/main/screenshots/search.jpg" width="400">
+![Search Users](https://github.com/AJKakarot/Chat-Box/blob/main/screenshots/search.jpg)
 
 ### View User Profiles
-<img src="https://github.com/AJKakarot/Chat-Box/blob/main/screenshots/profile.jpg" width="400">
-
+![User Profile](https://github.com/AJKakarot/Chat-Box/blob/main/screenshots/profile.jpg)
  
 
 ---
