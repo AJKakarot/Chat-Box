@@ -6,9 +6,7 @@
 
 ## 🌐 Demo
 
-[Live Demo](https://talk-a-tive-7fgq.onrender.com)  
-
-![Group + Notifications](https://github.com/ajeet-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+[Live Demo](https://chat-box-5xuk.onrender.com)  
 
 ---
 
@@ -48,15 +46,13 @@ git clone https://github.com/AJKakarot/mern-chat-app
   
 ## Demo
 
-[https://talk-a-tive.herokuapp.com/](https://talk-a-tive-7fgq.onrender.com)
-
-![](https://github.com/ajeet-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+[https://chat-box-5xuk.onrender.com]
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/ajeet-eon/mern-chat-app
+  git clone https://github.com/AJKakarot/Chat-Box.git
 ```
 
 Go to the project directory
